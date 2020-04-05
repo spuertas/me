@@ -8,7 +8,7 @@ body {
 /*OVERLAY CODE*/
 .overlay{
   position:fixed;
-   background:url(https://media.giphy.com/media/3ov9jZ3OAMHf5gwjBu/giphy.gif);
+   background:url(https://media.giphy.com/media/U6GF6pDuQCquQluXSg/giphy.gif);
   -webkit-animation:100s scroll infinite linear;
   -moz-animation:100s scroll infinite linear;
   -o-animation:100s scroll infinite linear;
